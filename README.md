@@ -122,7 +122,6 @@ python main.py --headless
     {
       "name": "附件1.pdf",
       "url": "https://example.com/file1.pdf",
-      "local_path": "./attachments/附件1.pdf"
     }
   ]
 }
