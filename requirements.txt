@@ -1,0 +1,3 @@
+# 基础依赖
+selenium
+webdriver-manager
